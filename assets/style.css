@@ -31,7 +31,7 @@ body {
     background-color: #eeeeee;
 }
 
-video {
+iframe {
     border-radius: 5px;
     max-width: 300px;
     width: 100%;
