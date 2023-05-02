@@ -26,5 +26,9 @@ body {
 }
 
 body {
-    background-color: #dedede;
+    background-color: #eeeeee;
+}
+
+iframe {
+    border-radius: 5px;
 }
